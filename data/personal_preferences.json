@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-09-23",
+  "priority_hypothesis": {
+    "criterion": "好故事优先",
+    "source": "用户直接自我总结",
+    "qualification": "用户说 may be the first priority；当前最强工作假设，不固化为绝对规则",
+    "implication": "先评估故事与人物的发展能否使用户持续关心，再评估视听与情绪加成；不把好故事等同于快节奏、反转多或情节繁复。"
+  },
+  "highlights": [
+    {
+      "subject_id": "1760622",
+      "title": "香水",
+      "preference_strength": "exceptional_favorite",
+      "rating_stars": 5,
+      "rating_source": "Douban snapshot",
+      "note": "用户明确非常偏爱；五星上限压平了偏好强度，不虚构六星或精确排名。",
+      "feedback_id": "20260923-story-perfume-reader"
+    },
+    {
+      "subject_id": "2213597",
+      "title": "朗读者",
+      "preference_strength": "strong_positive",
+      "rating_stars": null,
+      "rating_source": "未提供数值评分",
+      "note": "用户明确觉得非常好；未确认与《香水》同等强度，也未给出两者先后。",
+      "feedback_id": "20260923-story-perfume-reader"
+    }
+  ],
+  "self_reported_watched": [
+    {
+      "subject_id": "2213597",
+      "title": "朗读者 / The Reader",
+      "title_zh": "朗读者",
+      "year": 2008,
+      "url": "https://movie.douban.com/subject/2213597/",
+      "source_type": "user_statement",
+      "reported_on": "2026-09-23",
+      "rating_stars": null,
+      "rating_status": "not_provided",
+      "marked_date": null,
+      "preference_strength": "strong_positive",
+      "feedback_id": "20260923-story-perfume-reader",
+      "identity_sources": [
+        "https://movie.douban.com/subject/2213597/questions/756677",
+        "https://www.bbfc.co.uk/release/the-reader-q29sbgvjdglvbjpwwc0zodaxotc"
+      ]
+    }
+  ],
+  "corrections": [
+    "对‘娇柔’的解释仍属助手暂定理解；不再把普遍偏好少修饰或弱风格当作主要结论。",
+    "《机器人之梦》分差有直接解释：用户没有感受到一个好故事，音乐画面营造感受不足以弥补。",
+    "道德责任呈现要逐片看；《朗读者》受到高度肯定，不能仅因作品描绘有罪者的私人情感就判定用户会排斥。",
+    "剧集最高偏好为 Ted Lasso 与火线；越狱单独保留第一部剧的个人经历加成。推荐排除同时读取 series_preferences，剧名层面记录不等于逐季完整看过。"
+  ],
+  "unknowns": [
+    "好故事具体最依赖人物、因果、独特处境还是结尾，目前未分解确认。",
+    "《香水》与《朗读者》具体最受喜爱的部分仍未知。",
+    "当前情绪承受偏好未知。",
+    "《扪心问诊》的具体版本、已看季数，以及心理题材的完整已看片单尚未确认；《火线》的具体偏爱理由未展开。"
+  ],
+  "series_preferences": [
+    {
+      "title": "Ted Lasso",
+      "aliases": [
+        "足球教练"
+      ],
+      "scope": "series; seasons not individually confirmed",
+      "watch_status": "watched_user_reported",
+      "preference_strength": "top_favorite_on_quality",
+      "favorite_group": "top_two_tv_on_quality",
+      "reasons_explicit": [
+        "擅长情绪",
+        "能把积极的事情表现得不单薄、不鸡汤"
+      ],
+      "rating_stars": null,
+      "snapshot_references": [
+        {
+          "subject_id": "34843220",
+          "title": "足球教练 第一季",
+          "rating_stars": 5
+        }
+      ],
+      "feedback_id": "20260923-tv-favorites-psychology"
+    },
+    {
+      "title": "火线",
+      "aliases": [
+        "The Wire"
+      ],
+      "scope": "series; seasons not individually confirmed",
+      "watch_status": "watched_user_reported",
+      "preference_strength": "top_favorite_on_quality",
+      "favorite_group": "top_two_tv_on_quality",
+      "reasons_explicit": [
+        "masterpiece；具体偏爱理由尚未展开"
+      ],
+      "rating_stars": null,
+      "snapshot_references": [
+        {
+          "subject_id": "2393060",
+          "title": "火线 第五季",
+          "rating_stars": 5
+        }
+      ],
+      "feedback_id": "20260923-tv-favorites-psychology"
+    },
+    {
+      "title": "Prison Break",
+      "aliases": [
+        "越狱"
+      ],
+      "scope": "series; seasons not individually confirmed",
+      "watch_status": "watched_user_reported",
+      "preference_strength": "possible_coequal_favorite_with_personal_history",
+      "reasons_explicit": [
+        "若补第三部最爱，用户认为可与前两部齐名",
+        "第一部 TV series，长期喜爱，用户认为可能有额外加成"
+      ],
+      "personal_history": {
+        "first_tv_series": true,
+        "longstanding_affection": true,
+        "extra_affinity": "possible, user stated"
+      },
+      "rating_stars": null,
+      "snapshot_references": [
+        {
+          "subject_id": "1419297",
+          "title": "越狱 第一季",
+          "rating_stars": 5
+        }
+      ],
+      "feedback_id": "20260923-tv-favorites-psychology"
+    },
+    {
+      "title": "扪心问诊",
+      "aliases": [],
+      "scope": "title only; version and seasons unspecified",
+      "watch_status": "watched_user_reported",
+      "preference_strength": "not_specified",
+      "rating_stars": null,
+      "note": "作为心理题材兴趣的补充提及；未明确与前三部齐名，也未给出数值评分。",
+      "snapshot_references": [],
+      "feedback_id": "20260923-tv-favorites-psychology"
+    }
+  ],
+  "emotional_preferences": {
+    "positive_emotion": "明确欣赏能将积极内容表现得有厚度、不单薄、不鸡汤的作品。",
+    "anchor": "Ted Lasso",
+    "feedback_id": "20260923-tv-favorites-psychology",
+    "working_hypothesis": "推荐温暖作品时，优先考察人物与故事如何使积极情绪成立。"
+  },
+  "subject_interests": [
+    {
+      "subject": "心理题材",
+      "interest": "explicit_positive",
+      "coverage_self_report": "most of the TV series and films on this subject I have already watched",
+      "coverage_verified": false,
+      "example_user_provided": "扪心问诊",
+      "recommendation_rule": "默认已有广泛观看经验；先结合快照和口述已看核对候选，必要时简短确认；题材相同不足以构成推荐理由。",
+      "feedback_id": "20260923-tv-favorites-psychology"
+    }
+  ]
+}

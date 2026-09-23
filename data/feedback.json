@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "20260923-initial-viewing-intent",
+      "date": "2026-09-23",
+      "source": "本任务最初用户请求中的观影诉求原话摘录",
+      "verbatim": "I'm not a man that pursuing exciting stuff, more like I need to be moved, I need to be touched, and I need to think deeply.",
+      "explicit_preferences": [
+        "相比追求刺激，更希望被打动、被触及，并深入思考。"
+      ],
+      "qualification": "是观影诉求，不等于排斥所有有刺激性或悬念的作品；结合后续好故事可能优先共同理解。"
+    },
+    {
+      "id": "20260923-once-begin-again",
+      "date": "2026-09-23",
+      "source": "本任务用户直接反馈",
+      "subjects": [
+        {
+          "subject_id": "2053515",
+          "title": "曾经",
+          "rating_stars": 5
+        },
+        {
+          "subject_id": "6874403",
+          "title": "再次出发之纽约遇见你",
+          "rating_stars": 3
+        }
+      ],
+      "verbatim": "《再次出发》好像是在影史上更出名的一部电影。但 I don't know，我只是觉得它没那么细腻，没那么直击人心，有一种更娇柔的感觉。而曾经这部电影 more direct，and the song is more beautiful in my memory. I'm not sure if this makes sense.",
+      "memory_qualification": "用户明确表示难以回忆很多细节；此处是当前回顾留下的感受，不作为对影片客观特征的定论。",
+      "explicit_preferences": [
+        "记忆中《曾经》的表达更直接，更能直击人心",
+        "记忆中《曾经》的歌曲更美",
+        "对《再次出发》的回忆是没那么细腻，有一种更娇柔的感觉"
+      ],
+      "working_hypothesis": "用户可能偏好细腻且情感抵达直接的表达，对显得刻意修饰的情绪呈现较敏感；‘刻意修饰’是助手对‘娇柔’的暂定理解，尚未确认。",
+      "confidence": "具体回顾感受为用户自述；概括到其他作品的规则仍为暂定假设。",
+      "do_not_infer": [
+        "不据此认定用户普遍排斥精良制作、浪漫或商业电影",
+        "不将歌曲更美的偏好全部归因于剧情或人物真实感",
+        "不要求用户补出已经记不清的场景来证明当时评分"
+      ],
+      "recommendation_effect": "增加表达自然、情感抵达直接与音乐本身是否动人的考量；仅因音乐题材相同不提高推荐。暂不改变首轮排序。",
+      "subsequent_qualification": "后续好故事优先反馈具有更高解释优先级；少修饰假设不作为主要筛选条件。"
+    },
+    {
+      "id": "20260923-story-perfume-reader",
+      "date": "2026-09-23",
+      "source": "本任务用户直接反馈",
+      "verbatim": "我好像大概 get 到的点是：我的倾向是，I need it to be a good story. It may be the first priority.\n\n像《机器人之梦》给我的感觉就是，它有音乐、有画面，希望你从中 feel something，but I didn't see a good story.  And I'm not sure if you noticed，我非常偏爱《香水》这部电影，因为豆瓣的上限是5星，所以有些地方你可能看不出来。《香水》和《朗读者》这两部电影让我觉得非常好。",
+      "explicit_preferences": [
+        "好故事可能是第一优先级",
+        "《机器人之梦》的音乐与画面没有弥补用户感受到的故事不足",
+        "非常偏爱《香水》，五星上限隐藏了偏爱强度",
+        "《朗读者》也让用户觉得非常好"
+      ],
+      "qualification": "保留用户 may be 的限定；喜欢理由的进一步分解尚未确认。",
+      "recommendation_effect": "以好故事优先重新审视清单；《完美的日子》暂缓；保存五星以上的非数值偏好强度，并将《朗读者》加入口述已看排除集。",
+      "do_not_infer": [
+        "不把好故事简化为刺激、反转、快节奏或复杂情节",
+        "不为《朗读者》捏造豆瓣星级或观看日期",
+        "不将两部高度肯定作品强制设为同一偏爱等级",
+        "不把《香水》非常偏爱改写为六星数值"
+      ]
+    },
+    {
+      "id": "20260923-tv-favorites-psychology",
+      "date": "2026-09-23",
+      "source": "本任务用户直接反馈",
+      "verbatim": "再给你补一条：《Ted Lasso》和《火线》是我最喜欢的两部电视剧。可能再补上一部的话，我觉得和它们齐名的电视剧应该是《Prison Break》，这里面带有一点：you know, like it's my first TV series, and I loved it for a very long time, so it may have some extra加成。\n\n但从水准上看，Ted Lasso 和《火线》是我最喜欢的。Ted Lasso really good at 情绪，也知道怎么把 positive 的事情显得不那么单薄、不那么鸡汤。《火线》就不用说了，masterpiece。\n\n我其实还有《扪心问诊》。我对心理题材比较感兴趣，但我觉得这方面你应该推荐不出来了，因为 it's like most of the TV series and films on this subject I have already watched.社会人，作为补充信息给你，希望你加到画像里，让它更完整。。",
+      "explicit_preferences": [
+        "从作品水准上，《Ted Lasso》和《火线》是最喜欢的两部电视剧。",
+        "《Ted Lasso》擅长情绪，能把积极的事情表现得有厚度，避免单薄和鸡汤感。",
+        "《火线》被用户称为 masterpiece；具体偏爱原因未在本次展开。",
+        "《Prison Break》也是可与前两部齐名的最爱候选；它是用户的第一部 TV series，长期喜爱可能带有额外情感加成。",
+        "补充已看《扪心问诊》，对心理题材感兴趣；自述该题材影视大部分已看。"
+      ],
+      "qualification": "剧名层面的喜爱与已看信息；未逐季确认。心理题材覆盖程度为用户自述，未取得完整片单。",
+      "working_hypothesis": "在好故事可能优先的前提下，用户也重视积极情绪的厚度与可信度；具体由哪些人物与叙事处理形成，尚待进一步反馈。",
+      "recommendation_effect": "将 Ted Lasso 和火线提升为剧集最高偏好参照；分别记录越狱的作品喜爱与个人观影经历；心理题材推荐先核已看。此次不新增或重排推荐。",
+      "do_not_infer": [
+        "不把越狱的喜爱全部归因于怀旧，也不扣除情感加成来虚构客观评分。",
+        "不把整体剧集偏好复制成每一季的五星或全部季数已看。",
+        "不为扪心问诊补出未确认的版本、季数、评分或与最爱剧集相同的偏好等级。",
+        "不从心理题材兴趣推断个人心理健康状况或治疗经历。",
+        "不把心理题材大部分已看解释为确切全看过；也不将豆瓣未收录当作没看过。",
+        "不把助手熟悉的火线主题直接当成用户已确认的偏爱理由。"
+      ]
+    }
+  ]
+}

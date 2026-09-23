@@ -1,0 +1,181 @@
+{
+  "captured_date": "2026-09-23",
+  "source": "https://movie.douban.com/people/204443091/collect",
+  "collection_pages": [
+    {
+      "page": 1,
+      "start": 0,
+      "url": "https://movie.douban.com/people/204443091/collect",
+      "captured_at": "2026-09-23T01:51:28.172Z",
+      "count": 15
+    },
+    {
+      "page": 2,
+      "start": 15,
+      "url": "https://movie.douban.com/people/204443091/collect?start=15&sort=time&type=all&filter=all&mode=grid",
+      "captured_at": "2026-09-23T01:51:41.283Z",
+      "count": 15
+    },
+    {
+      "page": 3,
+      "start": 30,
+      "url": "https://movie.douban.com/people/204443091/collect?start=30&sort=time&type=all&filter=all&mode=grid",
+      "captured_at": "2026-09-23T01:51:59.016Z",
+      "count": 15
+    },
+    {
+      "page": 4,
+      "start": 45,
+      "url": "https://movie.douban.com/people/204443091/collect?start=45&sort=time&type=all&filter=all&mode=grid",
+      "captured_at": "2026-09-23T01:52:13.181Z",
+      "count": 15
+    },
+    {
+      "page": 5,
+      "start": 60,
+      "url": "https://movie.douban.com/people/204443091/collect?start=60&sort=time&type=all&filter=all&mode=grid",
+      "captured_at": "2026-09-23T01:52:36.856Z",
+      "count": 15
+    },
+    {
+      "page": 6,
+      "start": 75,
+      "url": "https://movie.douban.com/people/204443091/collect?start=75&sort=time&type=all&filter=all&mode=grid",
+      "captured_at": "2026-09-23T01:52:37.664Z",
+      "count": 15
+    },
+    {
+      "page": 7,
+      "start": 90,
+      "url": "https://movie.douban.com/people/204443091/collect?start=90&sort=time&type=all&filter=all&mode=grid",
+      "captured_at": "2026-09-23T01:52:54.735Z",
+      "count": 15
+    },
+    {
+      "page": 8,
+      "start": 105,
+      "url": "https://movie.douban.com/people/204443091/collect?start=105&sort=time&type=all&filter=all&mode=grid",
+      "captured_at": "2026-09-23T01:52:55.290Z",
+      "count": 2
+    }
+  ],
+  "movie_filter": {
+    "source_heading": "我看过的电影(80)",
+    "pages": [
+      {
+        "start": 0,
+        "count": 15,
+        "url": "https://movie.douban.com/people/204443091/collect?sort=time&amp;tags_sort=count&amp;filter=all&amp;start=0&amp;mode=grid&amp;type=movie"
+      },
+      {
+        "start": 15,
+        "count": 15,
+        "url": "https://movie.douban.com/people/204443091/collect?start=15&sort=time&type=movie&filter=all&mode=grid"
+      },
+      {
+        "start": 30,
+        "count": 15,
+        "url": "https://movie.douban.com/people/204443091/collect?start=30&sort=time&type=movie&filter=all&mode=grid"
+      },
+      {
+        "start": 45,
+        "count": 15,
+        "url": "https://movie.douban.com/people/204443091/collect?start=45&sort=time&type=movie&filter=all&mode=grid"
+      },
+      {
+        "start": 60,
+        "count": 15,
+        "url": "https://movie.douban.com/people/204443091/collect?start=60&sort=time&type=movie&filter=all&mode=grid"
+      },
+      {
+        "start": 75,
+        "count": 5,
+        "url": "https://movie.douban.com/people/204443091/collect?start=75&sort=time&type=movie&filter=all&mode=grid"
+      }
+    ],
+    "subject_ids": [
+      "1291839",
+      "1294194",
+      "1760622",
+      "1309021",
+      "6874403",
+      "35694766",
+      "10533913",
+      "34780991",
+      "36934908",
+      "1292624",
+      "1291546",
+      "1929463",
+      "1301169",
+      "1297294",
+      "1292348",
+      "1308817",
+      "1301459",
+      "1299769",
+      "2053515",
+      "35797709",
+      "30164448",
+      "34658290",
+      "30331959",
+      "1432180",
+      "3023164",
+      "1302675",
+      "35426925",
+      "1292214",
+      "1303246",
+      "1310177",
+      "1301582",
+      "1652618",
+      "1300275",
+      "3011051",
+      "1295437",
+      "24750126",
+      "35633650",
+      "26611804",
+      "1292337",
+      "30455615",
+      "35593344",
+      "26291339",
+      "7015798",
+      "27166976",
+      "35698284",
+      "3269088",
+      "26303622",
+      "1293004",
+      "5327189",
+      "33432655",
+      "1305666",
+      "36035676",
+      "35876302",
+      "25858604",
+      "35766491",
+      "35267208",
+      "30211998",
+      "34939037",
+      "24733428",
+      "1299481",
+      "1291853",
+      "1777612",
+      "1309163",
+      "30304994",
+      "1905462",
+      "1806555",
+      "2044089",
+      "1780330",
+      "30170448",
+      "1293981",
+      "6517421",
+      "26593587",
+      "1298909",
+      "26787574",
+      "26886408",
+      "2300586",
+      "26799731",
+      "1291545",
+      "10484601",
+      "1292001"
+    ]
+  },
+  "method": "Read-only DOM extraction of the logged-in list UI, clicking observed pagination links. Official movie filter independently supplies category membership. No cookies or tokens stored. Selected fields only, not a full HTML/archive/poster export.",
+  "scope": "All entries visible in collect UI at capture time, not a claim about all films ever watched or missing/deleted records."
+}

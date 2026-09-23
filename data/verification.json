@@ -1,0 +1,85 @@
+{
+  "snapshot_date": "2026-09-23",
+  "watched_total": 107,
+  "movies_total": 80,
+  "tv_total": 27,
+  "rated_total": 104,
+  "rated_movies": 77,
+  "rated_tv": 27,
+  "unrated_total": 3,
+  "comment_count": 43,
+  "star_distribution_all": {
+    "1": 3,
+    "2": 6,
+    "3": 17,
+    "4": 33,
+    "5": 45
+  },
+  "star_distribution_movies": {
+    "1": 1,
+    "2": 6,
+    "3": 15,
+    "4": 25,
+    "5": 30
+  },
+  "marked_date_range": [
+    "2019-10-30",
+    "2025-12-14"
+  ],
+  "browser_field_checksums_matched": 107,
+  "known_watched_including_self_reported": 108,
+  "additional_self_reported_watched": 1,
+  "movie_classification": "80 IDs read from all 6 movie-filter pages; complementary television filter heading independently confirmed 27",
+  "flags": [
+    {
+      "subject_id": "1294194",
+      "title": "悲情城市",
+      "flags": [
+        "no_star_rating_in_list_ui"
+      ]
+    },
+    {
+      "subject_id": "36820950",
+      "title": "混沌少年时 第一季 / Adolescence Season 1",
+      "flags": [
+        "comment_mentions_half_star_score_keep_separate_from_ui_rating"
+      ]
+    },
+    {
+      "subject_id": "36810718",
+      "title": "现在拨打的电话 / 지금 거신 전화는",
+      "flags": [
+        "comment_mentions_half_star_score_keep_separate_from_ui_rating"
+      ]
+    },
+    {
+      "subject_id": "26291339",
+      "title": "触火之恋 / Touched with Fire",
+      "flags": [
+        "release_year_not_extracted_from_list_prefix"
+      ]
+    },
+    {
+      "subject_id": "1293981",
+      "title": "心灵点滴 / Patch Adams",
+      "flags": [
+        "no_star_rating_in_list_ui",
+        "comment_mentions_half_star_score_keep_separate_from_ui_rating"
+      ]
+    },
+    {
+      "subject_id": "33437319",
+      "title": "我们与恶的距离2 / 我們與惡的距離Ⅱ",
+      "flags": [
+        "marked_year_precedes_first_listed_release_year"
+      ]
+    },
+    {
+      "subject_id": "2300586",
+      "title": "这个男人来自地球 / The Man from Earth",
+      "flags": [
+        "no_star_rating_in_list_ui"
+      ]
+    }
+  ]
+}
