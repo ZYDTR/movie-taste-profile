@@ -1889,5 +1889,24 @@
       "https://movie.douban.com/subject/2213597/questions/756677",
       "https://www.bbfc.co.uk/release/the-reader-q29sbgvjdglvbjpwwc0zodaxotc"
     ]
+  },
+  {
+    "subject_id": "1293399",
+    "title": "莫扎特传 / Amadeus",
+    "title_zh": "莫扎特传",
+    "year": 1984,
+    "url": "https://movie.douban.com/subject/1293399/",
+    "source_type": "user_statement",
+    "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+    "reported_on": "2026-09-23",
+    "rating_stars": null,
+    "rating_status": "not_provided",
+    "marked_date": null,
+    "preference_strength": "not_provided",
+    "feedback_id": "20260923-share-amadeus-watched",
+    "identity_sources": [
+      "https://movie.douban.com/subject/1293399/reviews",
+      "https://www.warnerbros.co.jp/home_entertainment/1zef2fa9f/"
+    ]
   }
 ]

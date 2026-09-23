@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+  "scope": "分享对话三轮共26部候选的讨论索引；不是用户想看清单，未逐片重新研究助手给出的全部剧情分析。",
+  "items": [
+    {
+      "title": "一次别离",
+      "discussion_round": 1,
+      "position_in_round": 1,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "莫扎特传",
+      "discussion_round": 1,
+      "position_in_round": 2,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "excluded_already_watched",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "留校联盟",
+      "discussion_round": 1,
+      "position_in_round": 3,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "秘密与谎言",
+      "discussion_round": 1,
+      "position_in_round": 4,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "弥撒",
+      "discussion_round": 1,
+      "position_in_round": 5,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "海边的曼彻斯特",
+      "discussion_round": 2,
+      "position_in_round": 1,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "美丽心灵的永恒阳光 / 暖暖内含光",
+      "discussion_round": 2,
+      "position_in_round": 2,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "过往",
+      "discussion_round": 2,
+      "position_in_round": 3,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "魅影缝匠",
+      "discussion_round": 2,
+      "position_in_round": 4,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "中央车站",
+      "discussion_round": 2,
+      "position_in_round": 5,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "燃烧女子的肖像",
+      "discussion_round": 2,
+      "position_in_round": 6,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "一一",
+      "discussion_round": 2,
+      "position_in_round": 7,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "天国与地狱",
+      "discussion_round": 3,
+      "position_in_round": 1,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "priority_withdrawn_after_pre_viewing_reservation",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "迈克尔·克莱顿",
+      "discussion_round": 3,
+      "position_in_round": 2,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "毕业会考",
+      "discussion_round": 3,
+      "position_in_round": 3,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "母亲",
+      "discussion_round": 3,
+      "position_in_round": 4,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "不死鸟",
+      "discussion_round": 3,
+      "position_in_round": 5,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "钢琴教师",
+      "discussion_round": 3,
+      "position_in_round": 6,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "explicit_consideration",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "饮食男女",
+      "discussion_round": 3,
+      "position_in_round": 7,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "explicit_consideration",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "午餐盒 / 美味情书",
+      "discussion_round": 3,
+      "position_in_round": 8,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "玛丽和马克思",
+      "discussion_round": 3,
+      "position_in_round": 9,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "explicit_consideration",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "爵士春秋",
+      "discussion_round": 3,
+      "position_in_round": 10,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "潜水钟与蝴蝶",
+      "discussion_round": 3,
+      "position_in_round": 11,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "月球",
+      "discussion_round": 3,
+      "position_in_round": 12,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "我们讲述的故事",
+      "discussion_round": 3,
+      "position_in_round": 13,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "explicit_consideration",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    },
+    {
+      "title": "滑板少年",
+      "discussion_round": 3,
+      "position_in_round": 14,
+      "recommendation_source": "assistant_in_shared_conversation",
+      "current_status": "discussed_not_individually_endorsed",
+      "user_rating_stars": null,
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5"
+    }
+  ],
+  "additional_corrections": [
+    {
+      "title": "留校联盟",
+      "status": "needs_reassessment",
+      "note": "保留为讨论候选，撤销仅凭 Ted Lasso 关联而升位的现行理由。"
+    }
+  ]
+}

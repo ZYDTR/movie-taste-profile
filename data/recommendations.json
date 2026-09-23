@@ -1,225 +1,32 @@
 {
-  "version": 4,
+  "version": 5,
   "date": "2026-09-23",
-  "status": "结合故事优先、最爱剧集与心理题材观看经验，更新为五部主推电影、一部剧集及三部保留候选。",
-  "excluded_against": "data/known_watched.json 的108条 + data/personal_preferences.json 的series_preferences剧名级口述记录；按中英文标题核对，均未命中。记录缺失不等于现实未看。",
-  "current_mood_preference": "尚未收到回答；各片单独标明情绪强度。",
-  "items": [
-    {
-      "rank": 1,
-      "title": "一次别离",
-      "original_title": "A Separation",
-      "year": 2011,
-      "fit": "高",
-      "mood": "紧绷、克制，思考多于情绪宣泄",
-      "anchors": [
-        "35633650",
-        "35797709",
-        "30181230"
-      ],
-      "reason": "好故事可能优先，是它仍居首的原因：婚姻、照护和雇佣冲突相互推动，人物每一次选择都改变处境。你对《坠落的审判》的肯定提供了直接依据：故事让观众不断修正判断，思考通过人物处境发生。",
-      "possible_mismatch": "持续紧绷，温暖较少；适合有精力投入人物处境和道德判断时。",
-      "source": "https://www.sonyclassics.com/aseparation/aseparation_presskit.pdf",
-      "source_note": "发行方资料：2011、123 分钟、婚姻与照护冲突；导演自述希望观众成为判断者。",
-      "type": "movie",
-      "status": "recommended",
-      "feedback_ids": [
-        "20260923-story-perfume-reader"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "留校联盟",
-      "original_title": "The Holdovers",
-      "year": 2023,
-      "fit": "高",
-      "mood": "带苦味的温暖，幽默与孤独并存",
-      "anchors": [
-        "1777612",
-        "34843220",
-        "26799731"
-      ],
-      "reason": "你对 Ted Lasso 的直接解释使它升至第二：寄宿学校假期里，老师、学生与厨师的相处，让幽默、孤独与相互理解都有具体关系作支撑。我的匹配判断是，它更可能满足你对有厚度的积极情绪的要求。",
-      "possible_mismatch": "叙事重心是三个人的关系变化；如果此时更想看复杂事件驱动的故事，它会显得平缓。",
-      "source": "https://www.miramax.com/movie/The-Holdovers/",
-      "source_note": "出品方简介：1970 年寄宿学校圣诞假期，老师、学生与厨师三位孤独者的相处。",
-      "type": "movie",
-      "status": "recommended",
-      "feedback_ids": [
-        "20260923-tv-favorites-psychology"
-      ]
-    },
-    {
-      "rank": 3,
-      "type": "movie",
-      "status": "recommended",
-      "title": "秘密与谎言",
-      "original_title": "Secrets & Lies",
-      "year": 1996,
-      "fit": "高，待观影反馈",
-      "mood": "前段拘谨、关系紧绷，情绪逐渐释放",
-      "anchors": [
-        "35797709",
-        "35633650",
-        "26799731"
-      ],
-      "feedback_ids": [
-        "20260923-story-perfume-reader",
-        "20260923-tv-favorites-psychology"
-      ],
-      "reason": "一位成年养女寻找生母，触动整个家庭长期藏着的秘密。我的推荐重点是人物如何隐瞒、误解和尝试理解彼此；心理兴趣、好故事与被理解的情感可以在同一条叙事中相遇。",
-      "possible_mismatch": "以对话和家庭关系为主，前段需要耐心；对它的匹配把握尚未经你的实际反馈验证。",
-      "source": "https://www.criterion.com/films/29202-secrets-lies",
-      "source_note": "发行方资料核对1996年、寻母和家庭关系的剧情前提。情绪与个人匹配为助手判断。"
-    },
-    {
-      "rank": 4,
-      "type": "movie",
-      "status": "recommended",
-      "title": "谜一样的双眼",
-      "original_title": "The Secret in Their Eyes",
-      "year": 2009,
-      "edition": "阿根廷原版",
-      "fit": "中高，待观影反馈",
-      "mood": "悬念、遗憾与长期执念交织，含沉重暴力案件",
-      "anchors": [
-        "2213597",
-        "1760622",
-        "1292348"
-      ],
-      "feedback_ids": [
-        "20260923-story-perfume-reader"
-      ],
-      "reason": "退休司法调查员重访一桩多年旧案，案件与迟迟未说出口的感情相互牵动。故事持续推进，同时追问人如何被爱、执念和未完成的事改变；因此把它作为香水、朗读者之外的新试探。相似之处是助手提出的匹配假设，用户尚未确认最爱这两部的具体原因。",
-      "possible_mismatch": "比前三部更依赖悬念安排，涉及性暴力与谋杀；你是否认同它的叙事设计仍是未知。",
-      "source": "https://www.sonypictures.com/movies/thesecretintheireyes",
-      "additional_sources": [
-        "https://www.sonyclassics.com/thesecretintheireyes/thesecretintheireyes_press.pdf"
-      ],
-      "source_note": "发行方核对调查员、旧案、跨越多年的感情；推荐2009年阿根廷版。保持无结局剧透。"
-    },
-    {
-      "rank": 5,
-      "title": "窃听风暴",
-      "original_title": "The Lives of Others",
-      "year": 2006,
-      "fit": "中高，人物转变的可信度待反馈",
-      "mood": "紧张、克制，有强烈情感落点",
-      "anchors": [
-        "30331959",
-        "1292348",
-        "2213597"
-      ],
-      "reason": "从奉命监听一个作家的任务展开，把制度压力、个人选择与理解他人的可能连接起来。结合朗读者、黑水的肯定与对有厚度的善意的偏好，我更看重它怎样让具体行动承载情感。",
-      "possible_mismatch": "监听者的变化能否说服你，是主要未知；对历史责任的处理需逐片判断，不再仅因人物身份设为低优先级。",
-      "source": "https://www.sonypictures.com/movies/thelivesofothers",
-      "source_note": "发行方简介：东德监控体制内的特工奉命监听剧作家；2006 年作品。",
-      "type": "movie",
-      "status": "recommended",
-      "feedback_ids": [
-        "20260923-story-perfume-reader",
-        "20260923-tv-favorites-psychology"
-      ]
-    }
-  ],
+  "status": "原版本四排序已被后续讨论取代，待按故事与情感共同成立重新评估。当前行动清单见watchlist。",
+  "items": [],
+  "series_items": [],
+  "reserve_items": [],
+  "current_watchlist": "data/watchlist.json",
+  "historical_recommendations": "data/recommendations_history/v4-20260923.json",
+  "discussion_record": "data/recommendation_discussion.json",
+  "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
   "feedback_ids": [
-    "20260923-once-begin-again",
-    "20260923-story-perfume-reader",
-    "20260923-tv-favorites-psychology"
+    "20260923-share-research-standard",
+    "20260923-share-amadeus-watched",
+    "20260923-share-ted-lasso-standard",
+    "20260923-share-story-emotional-depth",
+    "20260923-share-high-low-reservation",
+    "20260923-share-explicit-watchlist"
   ],
-  "priority_hypothesis": "好故事可能为第一优先级，人物与故事的发展先于仅按音乐画面或情绪标签匹配。",
-  "series_items": [
-    {
-      "rank": 1,
-      "type": "tv",
-      "status": "recommended_if_unseen",
-      "title": "六尺之下",
-      "original_title": "Six Feet Under",
-      "year": 2001,
-      "seasons": 5,
-      "fit": "剧集首选，待确认已看",
-      "mood": "黑色幽默、家庭矛盾与失去并存，情感随长期相处累积",
-      "anchors": [
-        "35876302",
-        "33432655",
-        "1305666"
-      ],
-      "feedback_ids": [
-        "20260923-tv-favorites-psychology"
-      ],
-      "reason": "经营殡仪馆的一家人，在亲人死亡后继续面对生活与关系。我的推荐依据是你想被触动、深入理解人物，也愿意投入长篇剧集：这部让人物在关系和时间中持续变化，心理描写与人生故事相连。并未假定它与火线有相同的叙事结构。",
-      "possible_mismatch": "五季，需要较长投入；家庭冲突和人物反复较多，情绪重量也明显。可能已在你的广泛观看经历内。",
-      "source": "https://www.netflix.com/tudum/articles/six-feet-under-netflix-date-details",
-      "source_note": "官方介绍核对殡仪馆家庭、死亡与亲密关系、五季；只引用作品信息，不据2023年的公告声称当前地区可看。"
-    }
-  ],
-  "reserve_items": [
-    {
-      "title": "海边的曼彻斯特",
-      "original_title": "Manchester by the Sea",
-      "year": 2016,
-      "fit": "高",
-      "mood": "沉重，情绪后劲强，也有日常的幽默",
-      "anchors": [
-        "35876302",
-        "33432655",
-        "35797709"
-      ],
-      "reason": "《晒后假日》《困在时间里的父亲》的五星，和你对《怪物》保留真实伤痛的肯定，使这部成为很强的候选。关注人如何带着难以修复的经验继续与人相处。",
-      "possible_mismatch": "丧失与创伤占很大比重；如果当晚需要恢复精神，可以先选《留校联盟》。",
-      "source": "https://roadsideattractions.com/filmography/manchester-by-the-sea/",
-      "source_note": "发行方简介：独居的波士顿杂工返乡照顾侄子；影片围绕家庭关系展开。",
-      "type": "movie",
-      "status": "reserve",
-      "current_note": "仍是很强的沉重情绪候选；本轮缩短主名单，将位置让给能进一步检验新画像的作品，并非判断其故事不足。"
-    },
-    {
-      "title": "金属之声",
-      "original_title": "Sound of Metal",
-      "year": 2019,
-      "fit": "中高",
-      "mood": "前段焦躁，后段趋向安静；感官代入强",
-      "anchors": [
-        "2053515",
-        "24733428",
-        "33432655"
-      ],
-      "reason": "从音乐与身份进入失去、依恋和重新认识生活的问题。你对《曾经》《心灵奇旅》的五星，以及对有力视听表达的欣赏，提供了交叉依据。",
-      "possible_mismatch": "听力变化、成瘾与适应是核心；声音设计有意制造不适，也不会一直提供悦耳音乐。",
-      "source": "https://www.criterion.com/films/32169-sound-of-metal",
-      "source_note": "发行版本资料：2019、120 分钟；故事与声音设计另核 Amazon Studios 官方简介 https://app.powster.com/amazonstudios/sound-of-metal/us/synopsis/ 。",
-      "feedback_caveat": "用户对《曾经》的五星同时来自表达质感与歌曲美感；音乐题材相同不能证明体验相近，也不据此提高本片排序。",
-      "type": "movie",
-      "status": "reserve",
-      "current_note": "保留候选；音乐题材本身不是强匹配依据，目前优先看其他故事。"
-    },
-    {
-      "title": "完美的日子",
-      "original_title": "Perfect Days",
-      "year": 2023,
-      "fit": "暂缓",
-      "mood": "非常安静，日常重复与微小变化",
-      "anchors": [
-        "24733428",
-        "5327189",
-        "26799731"
-      ],
-      "reason": "试探你是否也会被日常本身的价值、音乐和细小的相遇打动。与《心灵奇旅》《伦敦一家人》的方向有交集。",
-      "possible_mismatch": "《夏天的故事》《机器人之梦》《查令十字街84号》都只有三星，足以提醒我：安静、文艺、细腻本身并不保证你喜欢。这部弱情节且重复较多，先作为探索项。",
-      "source": "https://www.neonrated.com/film/perfect-days",
-      "source_note": "发行方资料：2023，东京清洁工的日常、音乐、书籍、树木照片与意外相遇。",
-      "status": "deferred",
-      "feedback_caveat": "用户明确好故事可能为首要条件，并以《机器人之梦》解释视听无法弥补故事不足。原推荐的日常、音乐、细微相遇依据偏弱，暂不优先安排。",
-      "type": "movie",
-      "current_note": "继续暂缓，日常质感与视听标签不足以支撑当前高优先级。"
-    }
-  ],
+  "excluded_against": "data/known_watched.json + personal_preferences.json中的series_preferences；新增莫扎特传已看。",
+  "current_mood_preference": "仍未知",
   "change_notes": [
-    "一次别离保持首选。",
-    "留校联盟由第三升至第二，Ted Lasso 的直接理由增强其依据。",
-    "新增秘密与谎言、谜一样的双眼，分别检验人物关系与持续叙事牵引力。",
-    "窃听风暴保留，取消此前按人物身份或责任题材推导的泛化顾虑，具体转变可信度仍待反馈。",
-    "六尺之下为剧集候选；尚不能确认用户现实未看。"
+    "保留旧推荐及依据为历史资料，不把新旧排序同时标为当前。",
+    "撤销留校联盟仅凭Ted Lasso相似性而升位的理由。",
+    "莫扎特传已看，排除重复待看推荐；喜爱程度未知。",
+    "天国与地狱撤回优先推荐，记录为观影前疑虑，不记负面评分。",
+    "四部明确考虑观看单独保存，排序来自分享对话助手，尚无看后反馈。",
+    "其余讨论候选未被逐部认可，也未被逐部拒绝。"
   ],
-  "evidence_boundary": "公开来源用于核对作品信息；排序、适配与情绪判断来自助手对用户反馈的推断，不是概率预测或用户已确认的喜爱。"
+  "priority_hypothesis": "优先判断具体人物、关系与经历是否让感情真实成立，并使用户愿意投入和思考。情感不是情节之后的附加奖励；事件密度、道德困境、复杂结构与分析空间，不能单独证明故事有深度。音乐和影像可以直接参与故事与感受，但不能替代用户感受到的故事缺失。",
+  "evidence_boundary": "原话、评分、助手解释、想看意愿和看后评价分开记录。分享对话助手的分析不是用户已确认偏好。"
 }

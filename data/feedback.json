@@ -86,7 +86,141 @@
         "不从心理题材兴趣推断个人心理健康状况或治疗经历。",
         "不把心理题材大部分已看解释为确切全看过；也不将豆瓣未收录当作没看过。",
         "不把助手熟悉的火线主题直接当成用户已确认的偏爱理由。"
-      ]
+      ],
+      "subsequent_qualification": "后续分享对话进一步明确 Ted Lasso 为完成度参照；相似作品不自动获得高适配，见20260923-share-ted-lasso-standard。"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "用户提供的 ChatGPT 分享对话中的用户原话",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "source_archive": "sources/shared-conversation-20260923.json",
+      "id": "20260923-share-research-standard",
+      "source_turns": [
+        1,
+        3
+      ],
+      "verbatim": "https://github.com/ZYDTR/movie-taste-profile   必须仔细地了解一下，这是一个我的观影偏好。然后我想你最重要的两个特点就是从中挖掘我真的喜欢什么和你接下来要给我推荐的是电影，然后这个电影必须得You really know what it's about.你才能跟我推荐，意思是hard work i'd want you to think deeply and search widely\n\n你确实给出了一轮我觉得值得我去看一看的选项，need more， deeper and wider",
+      "quote_scope": "两段独立用户消息按顺序拼接，消息边界见原话来源文件。",
+      "explicit_preferences": [
+        "需要深入挖掘真实偏好，推荐者必须真正了解候选电影具体在讲什么。",
+        "要求深入思考、广泛检索，认为此前给出的整轮选项值得进一步考虑。"
+      ],
+      "do_not_infer": [
+        "对整轮选项的肯定不表示逐部加入想看清单，更不表示已经观看或喜欢。"
+      ],
+      "recommendation_effect": "深入核对人物、关系与叙事过程，说明情绪怎样成立；来源事实与适配推断分别标注。"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "用户提供的 ChatGPT 分享对话中的用户原话",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "source_archive": "sources/shared-conversation-20260923.json",
+      "id": "20260923-share-amadeus-watched",
+      "source_turns": [
+        2
+      ],
+      "verbatim": "《莫扎特传》看过了",
+      "quote_scope": "连续原话摘录",
+      "explicit_preferences": [
+        "明确已看《莫扎特传》。"
+      ],
+      "do_not_infer": [
+        "未提供评分、喜欢程度或观看日期；不补出数值。"
+      ],
+      "recommendation_effect": "加入已看合并集，排除重复待看推荐。"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "用户提供的 ChatGPT 分享对话中的用户原话",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "source_archive": "sources/shared-conversation-20260923.json",
+      "id": "20260923-share-ted-lasso-standard",
+      "source_turns": [
+        2
+      ],
+      "verbatim": "《莫扎特传》看过了，然后你确实给出了一轮我觉得值得我去看一看的选项，把它列成more。能力Deeply，然后我想提醒你，有些事情不要作为干扰项，就是我是喜欢ted lesso, 但是我觉得这个水准很难达到。如果是相似电视剧，那很有可能会做得难以让人满意。",
+      "quote_scope": "完整用户消息",
+      "explicit_preferences": [
+        "喜欢 Ted Lasso，但认为其水准很难达到，相似电视剧可能难以令人满意。"
+      ],
+      "working_hypothesis": "将最高偏爱作品作为完成度参照，不能将题材或气质相似自动视为高适配。",
+      "do_not_infer": [
+        "不取消原有最爱地位，也不将相似作品全部判为不喜欢。"
+      ],
+      "recommendation_effect": "撤销《留校联盟》仅凭 Ted Lasso 关联而升位的现行依据；候选需靠自身故事与人物成立。"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "用户提供的 ChatGPT 分享对话中的用户原话",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "source_archive": "sources/shared-conversation-20260923.json",
+      "id": "20260923-share-story-emotional-depth",
+      "source_turns": [
+        4
+      ],
+      "verbatim": "我最初给你的那个仓库里，我不知道你有没有注意到一部电影，是比利·怀尔德的，好像吧《舞出我天地》。电影里那种真挚、朴实又强烈的情绪，I like it so much。\n\n我想要的是故事，但不想要一个不够 deep、不够 emotional，而是 shallow 的情节动物类似。",
+      "quote_scope": "同一用户消息中的连续摘录",
+      "explicit_preferences": [
+        "特别喜欢《跳出我天地》中真挚、朴实又强烈的情绪。",
+        "需要故事，同时排斥不够深、不够有感情的浅层情节推进。"
+      ],
+      "working_hypothesis": "好故事与情感深度共同成立；情感不应被视为情节完成后的额外加分。",
+      "identity_resolution": {
+        "subject_id": "1301169",
+        "title": "跳出我天地 / Billy Elliot",
+        "user_wording": "舞出我天地；比利·怀尔德，好像吧",
+        "director": "Stephen Daldry",
+        "source": "https://www.workingtitlefilms.com/film/billy-elliot/"
+      },
+      "do_not_infer": [
+        "不归纳为普遍偏爱舞蹈、励志、温暖、催泪或弱风格电影。",
+        "不替用户确认父亲、老师或某一舞段就是最喜欢的部分。",
+        "强烈不等于沉重创伤，朴实不等于形式简单。"
+      ],
+      "recommendation_effect": "新增直接理由明确的高偏好参照；同时检查故事是否使具体人物和感情值得投入。"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "用户提供的 ChatGPT 分享对话中的用户原话",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "source_archive": "sources/shared-conversation-20260923.json",
+      "id": "20260923-share-high-low-reservation",
+      "source_turns": [
+        4
+      ],
+      "verbatim": "我想跟你 argue 一下《天国与地狱》这个选题。我还没有看这部电影的相关细节，但是公司高管、绑匪之间的这种情节很土、很俗，不是吗？I don't want something shallow. I'm not sure if you understand.",
+      "quote_scope": "连续原话摘录",
+      "explicit_preferences": [
+        "对介绍中的高管与绑匪前提感到俗套，质疑其是否足够深、有情感。"
+      ],
+      "feedback_stage": "pre_viewing_response_to_recommendation",
+      "do_not_infer": [
+        "不是看后差评，不生成星级；也不表示排斥所有犯罪、绑架或经典电影。"
+      ],
+      "recommendation_effect": "撤回将《天国与地狱》列为当前最稳首推的匹配判断；记录针对推荐方式的疑虑，不断言影片客观浅薄。"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "用户提供的 ChatGPT 分享对话中的用户原话",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "source_archive": "sources/shared-conversation-20260923.json",
+      "id": "20260923-share-explicit-watchlist",
+      "source_turns": [
+        4,
+        5
+      ],
+      "verbatim": "我觉得你提出的《饮食男女》和《我们讲述的故事》这两个有点打动我，我可能会考虑。对，还有《玛丽和马克思》。别的话，我觉得《钢琴教师》可能也会看一看。",
+      "additional_verbatim": "现在我需要你经过我们 back and forth 的讨论，deliver 给我两件东西：\n\n我已经明确说了想看的 list，你得重新排序，然后只给名字和豆瓣 link 即可。\n关于我的画像更新，你觉得应该在哪些文件里加入哪些内容？然后我会加回到最开始的那个 GitHub Link 里去。",
+      "quote_scope": "消息4的连续摘录，另保存消息5对明确想看清单的确认。",
+      "explicit_preferences": [
+        "明确考虑观看《饮食男女》《我们讲述的故事》《玛丽和马克思》《钢琴教师》。"
+      ],
+      "interest_status": "explicit_consideration",
+      "do_not_infer": [
+        "兴趣不等于看后喜爱；助手排序不等于用户自己的名次。",
+        "未修改豆瓣想看标记，也未据此认定现实中从未看过。"
+      ],
+      "recommendation_effect": "单独生成四部想看清单；只存片名与豆瓣链接的阅读版，完整状态与来源存JSON。"
     }
   ]
 }

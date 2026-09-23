@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-09-23",
+  "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+  "status_note": "只记录用户明确考虑的四部；想看不是看后喜爱，也不是豆瓣账号想看状态。",
+  "items": [
+    {
+      "rank": 1,
+      "rank_source": "assistant_in_shared_conversation",
+      "title": "饮食男女",
+      "aliases": [],
+      "original_title": "Eat Drink Man Woman",
+      "year": 1994,
+      "subject_id": "1291818",
+      "url": "https://movie.douban.com/subject/1291818/",
+      "interest_status": "explicit_consideration",
+      "watch_status": "no_viewing_confirmation_in_this_conversation",
+      "rating_stars": null,
+      "post_viewing_feedback": null,
+      "douban_account_state": "not_modified",
+      "feedback_id": "20260923-share-explicit-watchlist",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "rank_note": "沿用分享对话最后给出的助手排序，用户没有亲自排序。"
+    },
+    {
+      "rank": 2,
+      "rank_source": "assistant_in_shared_conversation",
+      "title": "玛丽和马克思",
+      "aliases": [
+        "玛丽和麦克斯"
+      ],
+      "original_title": "Mary and Max",
+      "year": 2009,
+      "subject_id": "3072124",
+      "url": "https://movie.douban.com/subject/3072124/",
+      "interest_status": "explicit_consideration",
+      "watch_status": "no_viewing_confirmation_in_this_conversation",
+      "rating_stars": null,
+      "post_viewing_feedback": null,
+      "douban_account_state": "not_modified",
+      "feedback_id": "20260923-share-explicit-watchlist",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "rank_note": "沿用分享对话最后给出的助手排序，用户没有亲自排序。"
+    },
+    {
+      "rank": 3,
+      "rank_source": "assistant_in_shared_conversation",
+      "title": "我们讲述的故事",
+      "aliases": [],
+      "original_title": "Stories We Tell",
+      "year": 2012,
+      "subject_id": "11528235",
+      "url": "https://movie.douban.com/subject/11528235/",
+      "interest_status": "explicit_consideration",
+      "watch_status": "no_viewing_confirmation_in_this_conversation",
+      "rating_stars": null,
+      "post_viewing_feedback": null,
+      "douban_account_state": "not_modified",
+      "feedback_id": "20260923-share-explicit-watchlist",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "rank_note": "沿用分享对话最后给出的助手排序，用户没有亲自排序。"
+    },
+    {
+      "rank": 4,
+      "rank_source": "assistant_in_shared_conversation",
+      "title": "钢琴教师",
+      "aliases": [
+        "The Piano Teacher"
+      ],
+      "original_title": "La pianiste",
+      "year": 2001,
+      "subject_id": "1306730",
+      "url": "https://movie.douban.com/subject/1306730/",
+      "interest_status": "explicit_consideration",
+      "watch_status": "no_viewing_confirmation_in_this_conversation",
+      "rating_stars": null,
+      "post_viewing_feedback": null,
+      "douban_account_state": "not_modified",
+      "feedback_id": "20260923-share-explicit-watchlist",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "rank_note": "沿用分享对话最后给出的助手排序，用户没有亲自排序。"
+    }
+  ]
+}

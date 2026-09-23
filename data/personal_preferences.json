@@ -1,11 +1,15 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "updated_on": "2026-09-23",
   "priority_hypothesis": {
-    "criterion": "好故事优先",
-    "source": "用户直接自我总结",
-    "qualification": "用户说 may be the first priority；当前最强工作假设，不固化为绝对规则",
-    "implication": "先评估故事与人物的发展能否使用户持续关心，再评估视听与情绪加成；不把好故事等同于快节奏、反转多或情节繁复。"
+    "criterion": "好故事需要情感深度；故事优先不等于情节优先",
+    "source": "原先好故事可能优先的直接表达，加分享对话对情绪与浅层情节的明确校准",
+    "qualification": "保留用户 may be the first priority 的限定；以下为结合直接反馈形成的工作归纳，不设机械权重。",
+    "implication": "优先判断具体人物、关系与经历是否让感情真实成立，并使用户愿意投入和思考。情感不是情节之后的附加奖励；事件密度、道德困境、复杂结构与分析空间，不能单独证明故事有深度。音乐和影像可以直接参与故事与感受，但不能替代用户感受到的故事缺失。",
+    "feedback_ids": [
+      "20260923-story-perfume-reader",
+      "20260923-share-story-emotional-depth"
+    ]
   },
   "highlights": [
     {
@@ -25,6 +29,16 @@
       "rating_source": "未提供数值评分",
       "note": "用户明确觉得非常好；未确认与《香水》同等强度，也未给出两者先后。",
       "feedback_id": "20260923-story-perfume-reader"
+    },
+    {
+      "subject_id": "1301169",
+      "title": "跳出我天地",
+      "preference_strength": "strong_positive_with_explicit_reason",
+      "rating_stars": 5,
+      "rating_source": "Douban snapshot",
+      "explicit_reason": "真挚、朴实又强烈的情绪，I like it so much。",
+      "note": "作为有明确喜欢理由的重点参照；未与香水或其他最爱作排名。具体场景偏好未确认。",
+      "feedback_id": "20260923-share-story-emotional-depth"
     }
   ],
   "self_reported_watched": [
@@ -45,19 +59,45 @@
         "https://movie.douban.com/subject/2213597/questions/756677",
         "https://www.bbfc.co.uk/release/the-reader-q29sbgvjdglvbjpwwc0zodaxotc"
       ]
+    },
+    {
+      "subject_id": "1293399",
+      "title": "莫扎特传 / Amadeus",
+      "title_zh": "莫扎特传",
+      "year": 1984,
+      "url": "https://movie.douban.com/subject/1293399/",
+      "source_type": "user_statement",
+      "source_url": "https://chatgpt.com/share/6ab36c17-d5d0-83ec-ba2a-4e55ce66e0b5",
+      "reported_on": "2026-09-23",
+      "rating_stars": null,
+      "rating_status": "not_provided",
+      "marked_date": null,
+      "preference_strength": "not_provided",
+      "feedback_id": "20260923-share-amadeus-watched",
+      "identity_sources": [
+        "https://movie.douban.com/subject/1293399/reviews",
+        "https://www.warnerbros.co.jp/home_entertainment/1zef2fa9f/"
+      ]
     }
   ],
   "corrections": [
     "对‘娇柔’的解释仍属助手暂定理解；不再把普遍偏好少修饰或弱风格当作主要结论。",
     "《机器人之梦》分差有直接解释：用户没有感受到一个好故事，音乐画面营造感受不足以弥补。",
     "道德责任呈现要逐片看；《朗读者》受到高度肯定，不能仅因作品描绘有罪者的私人情感就判定用户会排斥。",
-    "剧集最高偏好为 Ted Lasso 与火线；越狱单独保留第一部剧的个人经历加成。推荐排除同时读取 series_preferences，剧名层面记录不等于逐季完整看过。"
+    "剧集最高偏好为 Ted Lasso 与火线；越狱单独保留第一部剧的个人经历加成。推荐排除同时读取 series_preferences，剧名层面记录不等于逐季完整看过。",
+    "好故事优先不能被实现成情节先行、情感只是加成；可分析性不能替代情感深度。",
+    "喜欢一部极高点作品，不代表普遍喜欢相似作品；Ted Lasso 和跳出我天地都作为完成度参照。",
+    "推荐前的疑虑、明确考虑观看、已看事实和看后喜爱必须分开记录。",
+    "对天国与地狱的反馈是对推荐前提的疑虑，不能记为看后差评；未再次提到的候选也不等于拒绝。"
   ],
   "unknowns": [
-    "好故事具体最依赖人物、因果、独特处境还是结尾，目前未分解确认。",
+    "已明确好故事不能缺少情感深度；人物、因果、形式、独特处境与结尾的具体权重仍未知。",
     "《香水》与《朗读者》具体最受喜爱的部分仍未知。",
     "当前情绪承受偏好未知。",
-    "《扪心问诊》的具体版本、已看季数，以及心理题材的完整已看片单尚未确认；《火线》的具体偏爱理由未展开。"
+    "《扪心问诊》的具体版本、已看季数，以及心理题材的完整已看片单尚未确认；《火线》的具体偏爱理由未展开。",
+    "《跳出我天地》具体最打动用户的场景尚未确认。",
+    "《莫扎特传》的喜欢程度与评分未提供。",
+    "四部明确想看的电影尚无观影后反馈；助手的顺位未被确认为用户亲自排名。"
   ],
   "series_preferences": [
     {
@@ -81,7 +121,9 @@
           "rating_stars": 5
         }
       ],
-      "feedback_id": "20260923-tv-favorites-psychology"
+      "feedback_id": "20260923-tv-favorites-psychology",
+      "recommendation_boundary": "完成度参照；相似题材、人物配置或温暖气质不自动加分，可能因水准差距更容易失望。",
+      "boundary_feedback_id": "20260923-share-ted-lasso-standard"
     },
     {
       "title": "火线",
@@ -148,7 +190,19 @@
     "positive_emotion": "明确欣赏能将积极内容表现得有厚度、不单薄、不鸡汤的作品。",
     "anchor": "Ted Lasso",
     "feedback_id": "20260923-tv-favorites-psychology",
-    "working_hypothesis": "推荐温暖作品时，优先考察人物与故事如何使积极情绪成立。"
+    "working_hypothesis": "具体人物经历与情绪共同构成好故事。善意、幽默、愤怒、欲望和释放都可能有价值；不能用沉重程度代替深度。",
+    "explicit_qualities": [
+      "真挚",
+      "朴实",
+      "强烈"
+    ],
+    "additional_anchor": "跳出我天地",
+    "additional_feedback_id": "20260923-share-story-emotional-depth",
+    "interpretation_boundaries": [
+      "积极情绪有厚度仍是明确偏好，但不能成为唯一方向。",
+      "朴实不等于缺少风格，强烈不等于悲惨或催泪。",
+      "父亲、老师与舞段的分析属于助手解读，用户未逐项确认。"
+    ]
   },
   "subject_interests": [
     {
@@ -160,5 +214,17 @@
       "recommendation_rule": "默认已有广泛观看经验；先结合快照和口述已看核对候选，必要时简短确认；题材相同不足以构成推荐理由。",
       "feedback_id": "20260923-tv-favorites-psychology"
     }
-  ]
+  ],
+  "recommendation_requirements": {
+    "source": "用户分享对话的直接要求",
+    "feedback_id": "20260923-share-research-standard",
+    "requirements": [
+      "深入理解真实偏好，深入思考并广泛检索。",
+      "真正了解候选影片的具体内容、人物动机、关系发展和叙事处理；不只依赖声誉、标签或简短梗概。",
+      "解释故事怎样使情绪成立，以及具体的人为什么值得投入；复杂人性等概括不能充当结论。",
+      "区分影片事实、用户直接表达、既有评分短评、助手的匹配推断与未知项。",
+      "先核已看，说明可能失配之处，避免无必要的关键结局剧透。",
+      "扩展推荐范围时保留不同的成立理由；避免只推沉重写实、温暖治愈或心理题材。"
+    ]
+  }
 }
